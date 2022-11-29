@@ -1,2 +1,2 @@
-# ngshaoyih.github.io
+# NgShaoYih.github.io
 Emily's Website Portfolio
