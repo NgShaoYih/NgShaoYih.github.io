@@ -1,3 +1,21 @@
 body {
     margin: 0px;
+    background-color: #2B2D42;
+}
+
+.index {
+    margin: 48px;
+    height: 100vh;
+}
+
+.index h1 {
+    font-family: monospace;
+}
+
+.index h3 {
+    font-family: monospace;
+}
+
+.index p {
+    font-family: monospace;
 }
