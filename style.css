@@ -19,21 +19,42 @@ body {
 }
 
 .index-text {
+    margin: 12px;
     display: block;
 }
 
 .index-nav {
+    margin: 36px;
     display: block;
 }
 
 .index h1 {
-    font-family: monospace;
+    font-family: serif;
+    margin: 0;
+    font-size: 8em;
 }
 
 .index h3 {
     font-family: monospace;
+    margin: 0;
+    font-size: 3em;
 }
 
 .index p {
     font-family: monospace;
+    margin: 0;
+    font-size: 2em;
+}
+
+.index a {
+    font-family: monospace;
+    margin: 8px;
+    font-size: 3em;
+    color:#EDF2F4;
+    text-decoration: none;
+    border-style: none none solid none;
+    border-color: #EDF2F4;
+    padding: 0px 4px;
+    display: block;
+    width: 90%;
 }
